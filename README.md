@@ -17,14 +17,22 @@ A school site for class records, lessons, student profiles, marks, and search. P
 
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet-framework)
 [![Web Forms](https://img.shields.io/badge/Web%20Forms-Pages-2C3E50?style=for-the-badge)](https://learn.microsoft.com/aspnet/web-forms/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![IIS](https://img.shields.io/badge/IIS-Server-0A4D8C?style=for-the-badge)](https://www.iis.net/)
+[![Master Pages](https://img.shields.io/badge/Layout-Master%20Pages-6C3483?style=for-the-badge)](https://learn.microsoft.com/aspnet/web-forms/overview/older-versions-getting-started/master-pages/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Classes](https://img.shields.io/badge/Feature-Classes-1ABC9C?style=for-the-badge)](#-pages)
+[![Lessons](https://img.shields.io/badge/Feature-Lessons-16A085?style=for-the-badge)](#-pages)
+[![Students](https://img.shields.io/badge/Feature-Students-2980B9?style=for-the-badge)](#-pages)
 [![Marks](https://img.shields.io/badge/Feature-Marks-C0392B?style=for-the-badge)](#-pages)
 [![Search](https://img.shields.io/badge/Feature-Search-E67E22?style=for-the-badge)](#-pages)
+[![Program](https://img.shields.io/badge/Feature-Program-D35400?style=for-the-badge)](#-pages)
+[![School](https://img.shields.io/badge/Domain-School-34495E?style=for-the-badge)](#-about)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
 [![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
-[![Stars](https://img.shields.io/github/stars/sadra-hatami/School-Portal-2?style=for-the-badge)](https://github.com/sadra-hatami/School-Portal-2/stargazers)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sadra-hatami/School-Portal-2)
 
 <br>
 
