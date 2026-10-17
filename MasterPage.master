@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="txt1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table style="z-index: 103; left:0.3cm; width: 99%; position: absolute; top: 4px; background-color: #EFF3FB;height:2.5cm">
+            <tr>
+                <td   >
+                    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx" Style="z-index: 100;
+                        left: 8px; position: absolute; top: 64px" Font-Underline="False" Font-Names="Estrangelo Edessa" Font-Size="11pt" ForeColor="MediumOrchid">صفحه اصلی</asp:HyperLink>
+                    
+                </td>
+            </tr>
+     </table>
+    
+        
+         <table  style=" left: 0.3cm;top:2.7cm;width:16%;height:12cm;background-color:#507CD1 ;position: absolute; z-index: 100;">
+            <tr>
+                <td>
+                    &nbsp;<asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                    </asp:ContentPlaceHolder>
+                    
+                    
+                </td>
+            </tr>
+        </table>          
+                   
+        
+        <table style="z-index: 104; left: 0.3cm; position: absolute;width:99%;height:0.8cm  ; top: 14.9cm;background-color:#EFF3FB; ">
+            <tr>
+                <td class ="foter" align="center" >© Copyright 2008 Schools Center&nbsp;&nbsp;&nbsp;&nbsp;ver :1.0.0.1
+                </td>
+            </tr>
+        </table>
+        
+        <table style="z-index: 105; left: 185px; position: absolute; top: 115px; width: 488px; height: 222px;">
+            <tr>
+                <td style="width: 100px; height: 257px;">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    &nbsp;
+                </td>
+            </tr>
+        </table>
+         
+        <table style="width:16%;height:12cm ;background-color:#507CD1;float:right ; position: absolute; ;top:2.7cm    ; left:21.9cm; z-index: 101;">
+            <tr>
+                <td >
+                </td>
+            </tr>
+        </table>
+        
+    </div>
+    </form>
+</body>
+</html>

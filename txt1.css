@@ -1,0 +1,56 @@
+﻿body
+{
+    font-weight: bold;
+    font-family: 'B Nazanin';
+   
+}
+.grid
+{
+    background-color: #d2d7d7;
+    border-bottom-color:transparent ;    
+}
+.tabel
+{
+    border-color :Red;
+    border-bottom-color:transparent ;
+     widows:50;   
+}
+tabel
+{
+    border-right-color :Blue ;
+    border-color :Navy ;
+    border-width :1px;
+    float :right ;
+    
+    vertical-align:middle ;
+    
+}
+.foter
+{
+    font-style: italic;
+    font-size: 0.7em;
+}
+.header
+{
+    font-family: 'b titr';
+    font-size: 1.7em;
+    color: #330000;
+    
+}
+.m
+{
+    border-style :solid ;
+    border-width :1px;
+    border-color :Yellow ; 
+}
+.g
+{
+    vertical-align: middle;
+    
+}
+.fff
+{
+    height :100%;
+    width :100%;
+    
+}
