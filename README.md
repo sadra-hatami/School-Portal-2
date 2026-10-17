@@ -17,7 +17,7 @@ A school site for class records, lessons, student profiles, marks, and search. P
 
 [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-[.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet-framework)
+[![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download/dotnet-framework)
 [![Web Forms](https://img.shields.io/badge/Web%20Forms-Pages-2C3E50?style=for-the-badge)](https://learn.microsoft.com/aspnet/web-forms/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![IIS](https://img.shields.io/badge/IIS-Server-0A4D8C?style=for-the-badge)](https://www.iis.net/)
