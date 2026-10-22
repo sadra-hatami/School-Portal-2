@@ -1,6 +1,6 @@
 <div align="center">
 
-# School Portal
+# School Portal ASP.NET
 # 🏫
 
 ### An ASP.NET desk for classes, lessons, and marks
@@ -55,7 +55,7 @@ A school site for class records, lessons, student profiles, marks, and search. P
 
 # 📖 About
 
-**School Portal** is an ASP.NET school desk.
+**School Portal ASP.NET** is an ASP.NET school desk.
 
 It covers the daily records of a school: classes, lessons, student profiles, marks, and a search page. Shared layout lives in the master pages. The solution file opens the site in Visual Studio.
 
